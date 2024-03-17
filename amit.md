@@ -5,8 +5,6 @@ normal text
 #### Heading (h4)
 ##### Heading (h5)
 ###### Heading (h6)
-```only 5 Heading (comment)
-```
 _Italics_
 **strong/bold**
 ~~1000~~
