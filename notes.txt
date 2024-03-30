@@ -8,3 +8,41 @@ install npm
 
 # to delete unempty file in termux 
 rm -rf <folder name>
+
+
+# For rebasing problem 
+git pull --rebase origin my-new-branch
+git push origin my-new-branch
+
+
+git pull --rebase origin main
+
+How to add file on github 
+git add .
+git commit -m "msg"
+git branch -M main
+git remote add origin <link folder>
+git push -u origin main 
+
+If error use below code 
+
+git checkout -b my-new-branch
+git add .
+git commit -m "New Branch"
+git push -u origin my-new-branch
+=============================
+Git login 
+To check the configuration, run:
+git config --global --list
+
+git config --global user.email "your_email_address@example.com"
+git config --global user.name "John Doe"
+
+Web dev help tool 
+1 . font awesome(for icon with download)
+2. Dafont (for custom font with download)
+3. Google font 
+4. Uigradiant(for linear gradient color)
+5. Cssgradiant
+6.9element github for element design for border 
+7. CSS scan for best box shadow
