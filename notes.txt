@@ -1,0 +1,10 @@
+# to create react app with vite 
+npm create vite@latest
+then name of project 
+select react
+select js or typescript
+install npm 
+
+
+# to delete unempty file in termux 
+rm -rf <folder name>
